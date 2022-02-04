@@ -1,0 +1,18 @@
+li{
+    list-style: none;
+}
+
+.welcomeimage{
+    height:800px;
+    width:1200px;
+}
+
+.footer{
+    height: 80px;
+    background-color: black;
+    color: white;
+}
+
+.footer>p{
+    font-size: 25px;
+}
